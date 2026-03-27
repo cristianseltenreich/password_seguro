@@ -35,7 +35,7 @@ Todo explícito, todo secuencial.
 Solo Python.  
 Nada extra, este script no usa librerías externas.
 
-## Notas importante
+## Notas
 
 Script realizado con fines educativos para demo de uso del paradigma imperativo, se recomienda el uso de gestores de contraseñas cómo KeePass.
 
