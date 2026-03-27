@@ -20,7 +20,7 @@ Si la longitud es mayor a 12, completa el resto con caracteres aleatorios.
 ## ¿Por qué es imperativo?
 
 Porque está hecho paso a paso, modificando variables y usando bucles y condicionales.  
-Nada raro: se construye la contraseña agregando cosas a una lista, se mezcla y se devuelve.  
+Nada raro: se construye la contraseña agregando elementos a una lista, se mezcla y se devuelve.  
 Todo explícito, todo secuencial.
 
 ## Cómo usarlo
